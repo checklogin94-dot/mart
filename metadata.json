@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Market",
+  "description": "A premium, dark-themed marketplace web app with role-based access control managed via a simulated Supabase environment.",
+  "requestFramePermissions": []
+}
